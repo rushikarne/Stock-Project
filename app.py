@@ -1,4 +1,5 @@
 pip install yfinance
+
 import streamlit as st
 import yfinance as yf
 start = '2010-01-01'
