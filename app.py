@@ -1,7 +1,4 @@
-pip install pandas-datareader
 import numpy as np
-import pandas as pd
-import pandas_datareader as data
 import yfinance as yf
 from datetime import datetime
 from keras.models import load_model
