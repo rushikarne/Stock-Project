@@ -1,3 +1,5 @@
+pip install yfinance
+
 import numpy as np
 import yfinance as yf
 from datetime import datetime
