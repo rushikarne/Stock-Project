@@ -1,4 +1,4 @@
-pip install yahoofinance
+pip yfinance
 
 import streamlit as st
 import yfinance as yf
