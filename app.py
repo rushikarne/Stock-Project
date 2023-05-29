@@ -1,5 +1,4 @@
 import numpy as np
-import yfinance as yf
 from datetime import datetime
 from keras.models import load_model
 from sklearn.preprocessing import MinMaxScaler
