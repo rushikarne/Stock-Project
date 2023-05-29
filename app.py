@@ -1,15 +1,3 @@
-import numpy as np
-import pandas as pd
-import pandas_datareader as data
-from keras.models import load_model
-import streamlit as st
-import yfinance as yf
-from datetime import datetime
-import warnings
-warnings.filterwarnings("ignore")
-import tensorflow as tf
-import plotly.graph_objects as go
-
 start = '2010-01-01'
 end = '2019-12-30'
 
